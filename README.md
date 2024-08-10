@@ -23,4 +23,4 @@ Please fork this repoistory and then issue Pull requests for review.
 
 ### Copyright
 
-2024 Git.Training.
+2024 Git.Training. All rights reserved.
