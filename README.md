@@ -18,6 +18,8 @@ Further update to the deployment.
 
 ## How To Contribute
 
+Please fork this repoistory and then issue Pull requests for review.
+
 ### Copyright
 
 2024 Git.Training.
