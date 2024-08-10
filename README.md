@@ -20,4 +20,4 @@ Further update to the deployment.
 
 ### Copyright
 
-Git.Training
+2024 Git.Training.
